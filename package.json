@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "N":"node index.js"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
